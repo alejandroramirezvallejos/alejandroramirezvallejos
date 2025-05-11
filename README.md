@@ -57,7 +57,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,js,ts,java,py" alt="Programming Languages" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,js,ts,java,r,py" alt="Programming Languages" />
   </a>
 </p>
 
@@ -65,7 +65,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,figma" alt="Frontend Development" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular" alt="Frontend Development" />
   </a>
 </p>
 
@@ -73,7 +73,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,postgres" alt="Backend Development" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,postgres" alt="Backend Development" />
   </a>
 </p>
 
@@ -81,7 +81,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,latex" alt="Tools" />
+    <img src="https://skillicons.dev/icons?i=git,figma,latex" alt="Tools" />
   </a>
 </p>
 
