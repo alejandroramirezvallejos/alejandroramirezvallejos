@@ -77,11 +77,11 @@
   </a>
 </p>
 
-### ⚙️ Other tools
+### ⚙️ Tools
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,latex" alt="Other tools" />
+    <img src="https://skillicons.dev/icons?i=git,latex" alt="Tools" />
   </a>
 </p>
 
