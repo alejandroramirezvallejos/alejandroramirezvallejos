@@ -21,7 +21,7 @@
       <ul>
         <li>🎓 Aspiring Software Engineer—pursuing a degree at the Bolivian Catholic University.</li>
         <li>🧩 Competitive Programming Aficionado—tackling puzzles on Codewars and in ICPC-style contests.</li>
-        <li>🌐 Web App Developer—currently developing an equipment-reservation platform for the Software Engineering Scientific Society.</li>
+        <li>🌐 Web App Developer—currently developing an equipment-reservation platform for the Software Engineering Student Scientific Society.</li>
         <li>🤝 Open-Source Advocate—contributing to community projects and mentoring lower-semester students at the Bolivian Catholic University.</li>
         <li>🎨 UX/UI Enthusiast—crafting intuitive, user-centered interfaces.</li>
       </ul>
